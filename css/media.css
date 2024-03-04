@@ -1,0 +1,15 @@
+@media (max-width: 1000px) and (min-width: 0){
+    .form2{
+        width: 90%;
+    }
+    .container1{
+        height: 100vh;
+    }
+    .container3 .row .p8{
+        margin-left: 0!important;
+    }
+    .container187 .img3{
+        width: 97%!important;
+        padding-left: 13px!important;
+    }
+}
